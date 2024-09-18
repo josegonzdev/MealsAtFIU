@@ -2,7 +2,7 @@ import requests
 import json
 
 # url of website for data
-url = "https://api.dineoncampus.com/v1/location/5b9fda57f3eeb60c6e592caf/periods/66c72eaec625af01b5d68ead?platform=0&date=2024-9-11"
+url = "https://api.dineoncampus.com/v1/location/5b9fda57f3eeb60c6e592caf/periods/66c72eaec625af01b5d68eb8?platform=0&date=2024-9-17"
 
 #headers
 headers = {
